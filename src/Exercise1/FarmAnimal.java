@@ -40,6 +40,6 @@ public abstract class FarmAnimal {
     //toString
 
     public String toString(){
-        return ("[name = " + name + ", gender = " + gender + ", weight = " + weight + ", age = " + age);
+        return (" [name = " + name + ", gender = " + gender + ", weight = " + weight + ", age = " + age + "]");
     }
 }

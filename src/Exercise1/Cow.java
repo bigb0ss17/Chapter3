@@ -26,6 +26,6 @@ public class Cow extends FarmAnimal{
     //toString
 
     public String toString(){
-        return "Cow " + sound + "[]" + super.toString();
+        return "Cow " + sound + "" + super.toString();
     }
 }

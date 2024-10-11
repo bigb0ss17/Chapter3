@@ -3,7 +3,9 @@ import java.util.ArrayList;
 
 public class MyFarm {
     public static void main(String[] args){
-        ArrayList<FarmAnimal> farmAnimals = new ArrayList();
+        ArrayList<FarmAnimal> farmAnimals = new ArrayList<>();
+
+        //animals
 
         Duck duck1 = new Duck("Donald", "male", 3.2, 5);
         Duck duck2 = new Duck("Cheese", "female", 3.6, 5);
@@ -12,12 +14,26 @@ public class MyFarm {
         Chicken chicken2 = new Chicken("Amelia", "female", 1.8, 4);
         Chicken chicken3 = new Chicken("Dixie", "female", 1.7, 4);
 
+        //add to the list
+        farmAnimals.add(duck1);
+        farmAnimals.add(duck2);
+        farmAnimals.add(cow);
+        farmAnimals.add(chicken1);
+        farmAnimals.add(chicken2);
+        farmAnimals.add(chicken3);
+
+
+
+        //print info
+
         System.out.println(duck1);
         System.out.println(duck2);
         System.out.println(cow);
         System.out.println(chicken1);
         System.out.println(chicken2);
         System.out.println(chicken3);
+
+        //feedingschedule
 
         System.out.println(duck1.getName() + ": " + duck1.feedLoadingSchedule());
         System.out.println(duck2.getName() + ": " + duck2.feedLoadingSchedule());

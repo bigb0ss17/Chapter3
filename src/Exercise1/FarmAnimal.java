@@ -6,6 +6,8 @@ public abstract class FarmAnimal {
     private double weight;
     private int age;
 
+    //constructor
+
     public FarmAnimal(){
         this.name = "Bobby";
         this.gender = "Male";

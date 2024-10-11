@@ -3,6 +3,8 @@ package Exercise1;
 public class Chicken extends FarmAnimal{
     private String sound;
 
+    //constructor
+
 
     public Chicken (String name, String gender, double weight, int age){
         super(name, gender, weight, age);

@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b996472-a7fc-4bc7-827d-e0d45ffee0fd" name="Changes" comment="whoopie goldburg">
-      <change afterPath="$PROJECT_DIR$/src/Exercise2/Airplane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise2/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise2/ThingsThatFly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise3/Airplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise3/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise3/Flight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise3/Movement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise3/ThingsThatMove.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise1/Chicken.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise1/Chicken.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise1/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise1/Duck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise1/FarmAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise1/FarmAnimal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise1/MyFarm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise1/MyFarm.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,15 +52,23 @@
   "keyToString": {
     "Application.MyFarm.executor": "Run",
     "Application.ThingsThatFly.executor": "Run",
+    "Application.ThingsThatMove.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/bigb0ss/IdeaProjects/Chapter3/src",
     "onboarding.tips.debug.path": "C:/Users/vpham7/IdeaProjects/Chapter3/src/Main.java"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Exercise2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bigb0ss\IdeaProjects\Chapter3\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Exercise3" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -90,7 +96,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728619240513</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="whoopie goldburg">
+      <option name="closed" value="true" />
+      <created>1728625269766</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728625269766</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

@@ -19,9 +19,11 @@ public class ThingsThatMove {
 
         //fly method
 
-        airplane.fly();
+        /*airplane.fly();
         bird1.fly();
         bird2.fly();
+        
+         */
 
         //print
         for (Movement obj : movingThings) {

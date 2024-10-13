@@ -5,11 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b996472-a7fc-4bc7-827d-e0d45ffee0fd" name="Changes" comment="whoopie goldburg">
-      <change afterPath="$PROJECT_DIR$/src/Exercise3/Airplane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise3/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise3/Flight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise3/Movement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise3/ThingsThatMove.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,7 +99,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728625269766</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="whoopie goldburg">
+      <option name="closed" value="true" />
+      <created>1728626025961</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728626025961</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
